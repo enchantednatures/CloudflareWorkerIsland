@@ -1,5 +1,6 @@
 mod itinerary;
 mod itinerary_form;
+mod itinerary_activities;
 
 mod itinerary_details {
     use leptos::*;
